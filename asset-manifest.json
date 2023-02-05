@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://krhimanshuiet.github.io/csb-l8qrfn/static/css/main.72d05f9e.chunk.css",
+    "main.js": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/main.fc21f53a.chunk.js",
+    "main.js.map": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/main.fc21f53a.chunk.js.map",
+    "runtime-main.js": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/runtime-main.be7dbd44.js",
+    "runtime-main.js.map": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/runtime-main.be7dbd44.js.map",
+    "static/js/2.3e0b527b.chunk.js": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/2.3e0b527b.chunk.js",
+    "static/js/2.3e0b527b.chunk.js.map": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/2.3e0b527b.chunk.js.map",
+    "static/js/3.5a10e21c.chunk.js": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/3.5a10e21c.chunk.js",
+    "static/js/3.5a10e21c.chunk.js.map": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/3.5a10e21c.chunk.js.map",
+    "index.html": "https://krhimanshuiet.github.io/csb-l8qrfn/index.html",
+    "static/css/main.72d05f9e.chunk.css.map": "https://krhimanshuiet.github.io/csb-l8qrfn/static/css/main.72d05f9e.chunk.css.map",
+    "static/js/2.3e0b527b.chunk.js.LICENSE.txt": "https://krhimanshuiet.github.io/csb-l8qrfn/static/js/2.3e0b527b.chunk.js.LICENSE.txt",
+    "static/media/amazon-logo.1c9be0b2.png": "https://krhimanshuiet.github.io/csb-l8qrfn/static/media/amazon-logo.1c9be0b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7dbd44.js",
+    "static/js/2.3e0b527b.chunk.js",
+    "static/css/main.72d05f9e.chunk.css",
+    "static/js/main.fc21f53a.chunk.js"
+  ]
+}
